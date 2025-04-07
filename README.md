@@ -45,4 +45,6 @@ Toda a lógica foi construída em JavaScript, com manipulação de arrays, estru
 
 ---
 
-Estou bem feliz por participar da Imersão e poder ter tido oportunidade de praticar lógica, manipular novas linguagens de programação e desenvolver projetos e jogos funcionais. Obrigada a plataforma de ensino Alura. 
+:pushpin: Estou bem feliz com todos os resultados e claro, por ter participado desta Imersão através da Alura que trouxe a oportunidade de contato com pessoas muito acolhedoras e pacientes, uma didática incrível que me permitiu praticar lógica, manipular novas linguagens de programação e desenvolver projetos e jogos funcionais. 
+Os projetos seguem sendo modificados para objeto de estudos, aceito sugestões.
+Obrigada e até logo! :love_letter:

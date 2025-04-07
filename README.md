@@ -5,12 +5,11 @@ Projetos resultado dos estudos da Imersão Dev 2025 da Alura.
 - **HTML**
 - **CSS**
 - **Javascript**
-- **DevTools**
 
 ## :toolbox: Ferramentas utilizadas
 - [CodePen](https://codepen.io/)
 - [VS Code](https://code.visualstudio.com/)
-
+- [DevTools](https://developer.chrome.com)
 ---
 
 ### :coin: Projeto 1: Conversor de Moedas 

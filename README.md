@@ -11,6 +11,8 @@ Projetos resultado dos estudos da Imersão Dev 2025 da Alura.
 - [CodePen](https://codepen.io/)
 - [VS Code](https://code.visualstudio.com/)
 
+---
+
 ### :coin: Projeto 1: Conversor de Moedas 
 Neste projeto, a Alura disponibilizou um template em HTML e CSS, que pude modificar escolhendo um tema, uma imagem de fundo e uma moeda para conversão.
 

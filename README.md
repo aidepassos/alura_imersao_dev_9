@@ -1,6 +1,15 @@
 # :coffee: Alura Imersão Dev 9 Edição 
 Projetos resultado dos estudos da Imersao Dev 2025 da Alura.
 
+## Tecnologias utilizadas
+- **HTML**
+- **CSS**
+- **Javascript**
+
+## Ferramentas utilizadas
+- **Code**
+- **VS Code**
+
 ## :coin: Projeto Conversor de Moedas 
 Bla
 
